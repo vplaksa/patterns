@@ -681,33 +681,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vplaksa\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\usrD630\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VPLAKSA_REPO\\patterns\\PatternsConsole\\PatternsConsole.csproj",
+      "projectUniqueName": "c:\\VPLAKSA_REPO\\patterns\\patterns\\PatternsConsole\\PatternsConsole.csproj",
       "projectName": "PatternsConsole",
-      "projectPath": "C:\\VPLAKSA_REPO\\patterns\\PatternsConsole\\PatternsConsole.csproj",
-      "packagesPath": "C:\\Users\\vplaksa\\.nuget\\packages\\",
-      "outputPath": "C:\\VPLAKSA_REPO\\patterns\\PatternsConsole\\obj\\",
+      "projectPath": "c:\\VPLAKSA_REPO\\patterns\\patterns\\PatternsConsole\\PatternsConsole.csproj",
+      "packagesPath": "C:\\Users\\usrD630\\.nuget\\packages\\",
+      "outputPath": "c:\\VPLAKSA_REPO\\patterns\\patterns\\PatternsConsole\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\vplaksa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\usrD630\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://betapackages.mysaledev.com/nuget": {},
-        "https://nuget.mysaledev.com/nuget": {}
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {

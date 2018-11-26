@@ -30,10 +30,11 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -176,33 +177,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vplaksa\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\usrD630\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VPLAKSA_REPO\\Structure\\Creational.csproj",
+      "projectUniqueName": "C:\\VPLAKSA_REPO\\patterns\\patterns\\Creational\\Creational.csproj",
       "projectName": "Creational",
-      "projectPath": "C:\\VPLAKSA_REPO\\Structure\\Creational.csproj",
-      "packagesPath": "C:\\Users\\vplaksa\\.nuget\\packages\\",
-      "outputPath": "C:\\VPLAKSA_REPO\\Structure\\obj\\",
+      "projectPath": "C:\\VPLAKSA_REPO\\patterns\\patterns\\Creational\\Creational.csproj",
+      "packagesPath": "C:\\Users\\usrD630\\.nuget\\packages\\",
+      "outputPath": "C:\\VPLAKSA_REPO\\patterns\\patterns\\Creational\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\vplaksa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\usrD630\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://betapackages.mysaledev.com/nuget": {},
-        "https://nuget.mysaledev.com/nuget": {}
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
