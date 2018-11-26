@@ -1,0 +1,11 @@
+C:\VPLAKSA_REPO\patterns\PatternsConsole\bin\Debug\netcoreapp2.1\PatternsConsole.deps.json
+C:\VPLAKSA_REPO\patterns\PatternsConsole\bin\Debug\netcoreapp2.1\PatternsConsole.runtimeconfig.json
+C:\VPLAKSA_REPO\patterns\PatternsConsole\bin\Debug\netcoreapp2.1\PatternsConsole.runtimeconfig.dev.json
+C:\VPLAKSA_REPO\patterns\PatternsConsole\bin\Debug\netcoreapp2.1\PatternsConsole.dll
+C:\VPLAKSA_REPO\patterns\PatternsConsole\bin\Debug\netcoreapp2.1\PatternsConsole.pdb
+C:\VPLAKSA_REPO\patterns\PatternsConsole\obj\Debug\netcoreapp2.1\PatternsConsole.csprojAssemblyReference.cache
+C:\VPLAKSA_REPO\patterns\PatternsConsole\obj\Debug\netcoreapp2.1\PatternsConsole.csproj.CoreCompileInputs.cache
+C:\VPLAKSA_REPO\patterns\PatternsConsole\obj\Debug\netcoreapp2.1\PatternsConsole.AssemblyInfoInputs.cache
+C:\VPLAKSA_REPO\patterns\PatternsConsole\obj\Debug\netcoreapp2.1\PatternsConsole.AssemblyInfo.cs
+C:\VPLAKSA_REPO\patterns\PatternsConsole\obj\Debug\netcoreapp2.1\PatternsConsole.dll
+C:\VPLAKSA_REPO\patterns\PatternsConsole\obj\Debug\netcoreapp2.1\PatternsConsole.pdb
